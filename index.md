@@ -1,6 +1,6 @@
 ## Tianyi Zhang's First CS193 Homework
 
-# My favourite things about CS193
+### My favourite things about CS193
 - Nice TAs
 - learning many new things
 
